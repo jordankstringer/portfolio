@@ -14,7 +14,7 @@ This is a work in progress. All bugs can be reported through contact information
 
 ## Support and contact details
 
-For further concerns, contact **Jordan** at [jordankstringer@gmail.com](jordankstringer@gmail.com)
+For further concerns, contact **Jordan** at <jordankstringer@gmail.com>
 
 ## Technologies Used
 
