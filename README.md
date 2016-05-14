@@ -15,6 +15,7 @@ This is a work in progress. All bugs can be reported through contact information
 ## Support and contact details
 
 For further concerns, contact **Jordan** at <jordankstringer@gmail.com>
+<br/>
 [Click here to see my awesome project!](http://jordankstringer.github.io/portfolio/)
 
 ## Technologies Used
