@@ -1,0 +1,15 @@
+.picture-float {
+  float: left;
+  padding: 10px;
+}
+
+.paragraph-font {
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+.activities-sidebar {
+  float: right;
+  border: solid steelblue;
+  padding: 5px;
+}
