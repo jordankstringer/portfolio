@@ -12,4 +12,9 @@
   float: right;
   border: solid steelblue;
   padding: 5px;
+  margin: 5px;
+}
+
+.italic {
+  font-style: italic;
 }
